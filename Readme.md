@@ -16,6 +16,6 @@ code program ini ditulis dengan menggunakan code editor dengan nama **Acode** da
 
 ![result](https://github.com/candradwicahyo/automatic-popup/blob/master/image.jpg)
 
-[tekan link ini](https://candradwicahyo.github.io/automatix-popup) untuk mencoba program ini
+[tekan link ini](https://candradwicahyo.github.io/automatic-popup) untuk mencoba program ini
 
 > dibuat oleh **
